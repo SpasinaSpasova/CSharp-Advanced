@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Lootbox", "01. Lootbox\01. Lootbox.csproj", "{78E85693-67C7-4F07-B1F6-F778802D9602}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guild", "Guild\Guild.csproj", "{15636C45-A5AC-45A7-A49D-CDCA695C96F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Re-Volt", "02. Re-Volt\02. Re-Volt.csproj", "{1D79366F-88CF-4A84-9EEB-BBBE666D66C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E85693-67C7-4F07-B1F6-F778802D9602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E85693-67C7-4F07-B1F6-F778802D9602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E85693-67C7-4F07-B1F6-F778802D9602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E85693-67C7-4F07-B1F6-F778802D9602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15636C45-A5AC-45A7-A49D-CDCA695C96F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15636C45-A5AC-45A7-A49D-CDCA695C96F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15636C45-A5AC-45A7-A49D-CDCA695C96F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15636C45-A5AC-45A7-A49D-CDCA695C96F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D79366F-88CF-4A84-9EEB-BBBE666D66C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D79366F-88CF-4A84-9EEB-BBBE666D66C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D79366F-88CF-4A84-9EEB-BBBE666D66C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D79366F-88CF-4A84-9EEB-BBBE666D66C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A351392-BD2E-49B9-BBEB-131F94B944C6}
+	EndGlobalSection
+EndGlobal
