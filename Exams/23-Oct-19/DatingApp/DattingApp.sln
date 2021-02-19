@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DattingApp", "DattingApp.csproj", "{215620F9-14F9-45A2-B8EB-80162CC6F34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit", "..\Rabbit\Rabbit.csproj", "{3EA6CAE0-6889-49B5-A14E-FDCD66E25C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWorm", "..\BookWorm\BookWorm.csproj", "{0D374022-F171-4465-8DA8-083BFE75D155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215620F9-14F9-45A2-B8EB-80162CC6F34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215620F9-14F9-45A2-B8EB-80162CC6F34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215620F9-14F9-45A2-B8EB-80162CC6F34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215620F9-14F9-45A2-B8EB-80162CC6F34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA6CAE0-6889-49B5-A14E-FDCD66E25C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA6CAE0-6889-49B5-A14E-FDCD66E25C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA6CAE0-6889-49B5-A14E-FDCD66E25C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA6CAE0-6889-49B5-A14E-FDCD66E25C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D374022-F171-4465-8DA8-083BFE75D155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D374022-F171-4465-8DA8-083BFE75D155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D374022-F171-4465-8DA8-083BFE75D155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D374022-F171-4465-8DA8-083BFE75D155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732307B2-8B50-4CC2-9A91-8473C864CD35}
+	EndGlobalSection
+EndGlobal
